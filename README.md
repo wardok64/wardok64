@@ -19,7 +19,7 @@ I am an Mechatronics Engineer and Maintenance Technician focused on embedded sys
  - Basic app with MQTT and FreeRTOS.
 
 ## 🦾 Skills: 
- - Arduino | C Languaje | Cortex-M | KiCAD | Linux | RPi | IoT 
+ - Arduino | C/C++ | Cortex-M | KiCAD | Linux | RPi | IoT 
 
 
 <!--
