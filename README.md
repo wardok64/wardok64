@@ -4,21 +4,21 @@
 
 I am an Mechatronics Engineer and Maintenance Technician focused on embedded systems, firmware and IoT.
 
-🔭 Currently working on:
+## 🔭 Currently working on:
  - New content for my [Youtube](https://www.youtube.com/channel/UCxg4TXCpaO0D-uDt0ksRbiA) channel.
  - RF car with ESP-NOW.
  - SCADA with Node-RED Dashboard.
  - FreeRTOS applications with Cortex-M.
 
-🌱 Currently learning:
+## 🌱 Currently learning:
  - Node-RED Dashboard 2.0 and FlowFuse.
  - RF/Bluethoot/LoRa with FreeRTOS.
    
-🤔 Future projects:
+## 🤔 Future projects:
  - DYI ESP-CAM with Dashboard.
  - Basic app with MQTT and FreeRTOS.
 
-🦾 Skills: 
+## 🦾 Skills: 
  - Arduino | C Languaje | Cortex-M | KiCAD | Linux | RPi | IoT 
 
 
