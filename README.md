@@ -1,6 +1,6 @@
 ### Eduardo M ⚡ 
 
- ## [YouTube](https://www.youtube.com/channel/UCxg4TXCpaO0D-uDt0ksRbiA) 📺 | [Instagram](https://www.instagram.com/mecatronica.made/) 📷 | [X](twitter.com/lalo_made) 
+ ## [YouTube](https://www.youtube.com/channel/UCxg4TXCpaO0D-uDt0ksRbiA) 📺 | [Instagram](https://www.instagram.com/mecatronica.made/) 📷 | [X](https://twitter.com/lalo_made)
 
 I am an Mechatronics Engineer and Maintenance Technician focused on embedded systems, firmware and IoT.
 
