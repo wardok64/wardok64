@@ -11,8 +11,10 @@ I am an Mechatronics Engineer and Maintenance Technician focused on embedded sys
  - FreeRTOS applications with Cortex-M.
 
 ## 🌱 Currently learning:
+ - Assembly Language.
+ - HTML/CSS/JS.
  - Node-RED Dashboard 2.0 and FlowFuse.
- - RF/Bluethoot/LoRa with FreeRTOS.
+ - RF/Bluethoot/LoRa/MQTT with FreeRTOS.
    
 ## 🤔 Future projects:
  - DYI ESP-CAM with Dashboard.
